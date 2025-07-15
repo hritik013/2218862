@@ -43,7 +43,7 @@ This is a user-friendly URL Shortener application built with React and Material 
 ## Logging Middleware
 - All logs are sent to a remote API with a Bearer token (see `src/middleware/logger.js`).
 - No use of `console.log` or browser logging anywhere in the app.
-## DEMO
+## DEMO (Windows)
 ## 1.INPUT THE URLs:
 <img width="1915" height="1092" alt="image" src="https://github.com/user-attachments/assets/51df0f3c-8f98-4c1f-acc1-62be6c774986" />
 
@@ -55,6 +55,20 @@ This is a user-friendly URL Shortener application built with React and Material 
 
 ## 4.Result
 <img width="1832" height="1045" alt="image" src="https://github.com/user-attachments/assets/b4115513-b5e9-4675-a3a2-d49e3fd9d722" />
+
+## DEMO (ANDROID)
+## 1.INPUT THE URLs:
+<img width="746" height="982" alt="image" src="https://github.com/user-attachments/assets/d2d1fb8b-5ce4-453f-b52c-8f127eef1813" />
+
+## 2.SHORTENED URLs: 
+<img width="686" height="938" alt="image" src="https://github.com/user-attachments/assets/dd2eebc8-6d31-4524-8ed0-8e3018b68e47" />
+
+## 3.STATS:
+<img width="715" height="975" alt="image" src="https://github.com/user-attachments/assets/63f2271f-3c38-4865-94b6-95e2bd67471f" />
+
+## 4.Result
+<img width="1832" height="1045" alt="image" src="https://github.com/user-attachments/assets/b4115513-b5e9-4675-a3a2-d49e3fd9d722" />
+
 
 ## Tech Stack
 - **React** (Vite)
