@@ -43,6 +43,13 @@ This is a user-friendly URL Shortener application built with React and Material 
 ## Logging Middleware
 - All logs are sent to a remote API with a Bearer token (see `src/middleware/logger.js`).
 - No use of `console.log` or browser logging anywhere in the app.
+## DEMO
+# 1.INPUT THE URLs:
+<img width="1566" height="1043" alt="image" src="https://github.com/user-attachments/assets/397721cd-0659-4dfd-b0bc-6d7dcb44200f" />
+# 2. SHORTENED URLs: 
+<img width="1345" height="348" alt="image" src="https://github.com/user-attachments/assets/ca190501-b42f-4feb-8185-74b1847781e4" />
+# 3. STATS:
+<img width="1558" height="707" alt="image" src="https://github.com/user-attachments/assets/49dba504-42b9-413b-8730-1a9222e0cb97" />
 
 ## Tech Stack
 - **React** (Vite)
