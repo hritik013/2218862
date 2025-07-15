@@ -45,13 +45,13 @@ This is a user-friendly URL Shortener application built with React and Material 
 - No use of `console.log` or browser logging anywhere in the app.
 ## DEMO
 ## 1.INPUT THE URLs:
-<img width="1566" height="1043" alt="image" src="https://github.com/user-attachments/assets/397721cd-0659-4dfd-b0bc-6d7dcb44200f" />
+<img width="1915" height="1092" alt="image" src="https://github.com/user-attachments/assets/51df0f3c-8f98-4c1f-acc1-62be6c774986" />
 
 ## 2.SHORTENED URLs: 
-<img width="1345" height="348" alt="image" src="https://github.com/user-attachments/assets/ca190501-b42f-4feb-8185-74b1847781e4" />
+<img width="1893" height="1087" alt="image" src="https://github.com/user-attachments/assets/83423782-4d98-4e70-8613-fd313b109a5f" />
 
 ## 3.STATS:
-<img width="1558" height="707" alt="image" src="https://github.com/user-attachments/assets/49dba504-42b9-413b-8730-1a9222e0cb97" />
+<img width="1711" height="472" alt="image" src="https://github.com/user-attachments/assets/046d4373-856b-4361-8c15-5213456f0c76" />
 
 ## 4.Result
 <img width="1832" height="1045" alt="image" src="https://github.com/user-attachments/assets/b4115513-b5e9-4675-a3a2-d49e3fd9d722" />
