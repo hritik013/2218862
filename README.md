@@ -16,6 +16,7 @@ This is a user-friendly URL Shortener application built with React and Material 
 - **All actions and errors logged** via a custom logger (no console.log)
 - **Material UI** for a modern, clean interface
 - **Data persistence** using localStorage
+- **Responsive UI** 
 
 ## Setup & Running
 1. **Install dependencies:**
