@@ -53,6 +53,9 @@ This is a user-friendly URL Shortener application built with React and Material 
 ## 3.STATS:
 <img width="1558" height="707" alt="image" src="https://github.com/user-attachments/assets/49dba504-42b9-413b-8730-1a9222e0cb97" />
 
+## 4.Result
+<img width="1832" height="1045" alt="image" src="https://github.com/user-attachments/assets/b4115513-b5e9-4675-a3a2-d49e3fd9d722" />
+
 ## Tech Stack
 - **React** (Vite)
 - **Material UI**
